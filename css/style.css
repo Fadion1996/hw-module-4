@@ -3,6 +3,7 @@ body {
 }
 h1 {
   font-family: 'Pathway Gothic One', sans-serif;
+  text-transform: uppercase;
 }
 h4, p {
   font-family: "Arial";
