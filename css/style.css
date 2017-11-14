@@ -124,7 +124,7 @@ h4, p {
   -webkit-padding-start: 0px;
 }
 .first-bottom-colomn .list ul li {
-  display: inline-flex;
+  display: inline-block;
   width: 300px;
   padding: 0;
   color: #263555;
@@ -134,11 +134,13 @@ h4, p {
   content: "\2192";
   margin-right: 10px;
   color: #263555;
+  position: absolute;
 }
 
 .first-bottom-colomn ul li h4 {
   color: #263555;
   font-weight:normal;
+  margin-left: 20px;
 }
 
 .second-bottom-colomn h3 {
